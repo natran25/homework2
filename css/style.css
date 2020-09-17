@@ -17,6 +17,7 @@ p {
   font-size: 24px;
   padding-top: 20px;
   color: #ffffff;
+  font-family: "Lucida Grande", sans-serif;
 }
 
 img {
@@ -32,6 +33,10 @@ div {
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 25px;
+}
+
+#intro {
+  background-color: #000000
 }
 
 #red {
