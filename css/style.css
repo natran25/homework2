@@ -66,6 +66,11 @@ footer p {
   text-align: right;
 }
 
+#green {
+  color: #008000;
+  text-align: left;
+}
+
 #yellow h2 {
   color: #000000;
   text-shadow: 5px 5px 2px #c7e2c7;
@@ -73,9 +78,4 @@ footer p {
 
 #yellow p {
   color: #000000;
-}
-
-#green {
-  color: #008000;
-  text-align: left;
 }
