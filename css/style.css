@@ -1,8 +1,7 @@
 h1 {
   font-size: 64px;
-  font-family: "Lucida Grande", sans-serif;
+  font-style: "Lucida Grande", sans-serif;
   text-align: center;
-  background-color: #000000;
   color: #ffffff;
 }
 
@@ -10,14 +9,12 @@ h2 {
   font-size: 30px;
   font-family: "Lucida Grande", sans-serif;
   text-shadow: 5px 5px 2px #808080;
-  background-color: #000000;
   color: #ffffff;
 }
 
 p {
   font-size: 24px;
   padding-top: 20px;
-  background-color: #000000;
   color: #ffffff;
 }
 
