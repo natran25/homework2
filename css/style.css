@@ -1,6 +1,6 @@
 body {
   font-family: "Lucida Grande", sans-serif;
-  color: #ffffff
+  color: #ffffff;
 }
 
 h1 {
@@ -52,6 +52,8 @@ div {
 
 footer p {
   text-align: right;
+  padding-left: 0px;
+  padding-top: 0px;
   padding-bottom: 10px;
   padding-right: 10px;
 }
@@ -88,4 +90,3 @@ footer p {
 #yellow p {
   color: #000000;
 }
-
