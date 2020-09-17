@@ -1,3 +1,8 @@
+body {
+  font-family: "Lucida Grande", sans-serif;
+  color: #ffffff
+}
+
 h1 {
   font-size: 64px;
   font-family: "Lucida Grande", sans-serif;
@@ -38,7 +43,7 @@ header {
 }
 
 div {
-  height: 150px;
+  min-height: 150px;
   padding-top: 25px;
   padding-left: 25px;
   padding-right: 25px;
